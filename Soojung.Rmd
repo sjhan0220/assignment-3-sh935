@@ -1,0 +1,15 @@
+---
+title: "Soojung"
+author: "Soojung"
+date: "2/24/2022"
+output: html_document
+---
+
+
+* Ph.D student
+  + City and Regional Planning
+* Academic interest: transport justice
+  + Gendered, racialized, classed mobility
+* Currently based in Ithaca
+  + Previously based in Seoul and Beijing
+  

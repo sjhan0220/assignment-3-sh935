@@ -1,0 +1,15 @@
+---
+title: "index"
+author: "Soojung"
+date: "2/24/2022"
+output: html_document
+---
+
+
+### Homepage
+
+made by [Soojung Han](https://github.com/sjhan0220) and [Sang-O Kim](https://github.com/wallace0214)
+
+
+![**Warm welcome**](https://t3.ftcdn.net/jpg/01/76/98/40/360_F_176984023_8I82qQPmKn8TqNAZXIYMCSiwccoUiPBg.jpg)
+
