@@ -1,0 +1,9 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Soojung"
+      href: Soojung.html
+    - text: "sango"
+      href: sango.html  
